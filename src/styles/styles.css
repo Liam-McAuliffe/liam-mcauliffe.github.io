@@ -21,7 +21,7 @@ body {
   overflow: hidden;
   position: relative;
 }
-.cover-image-container#me-image {
+.cover-image-container #me-image {
   min-height: 214px;
   min-width: 214px;
   animation: slideUpWiggle 3s ease-out forwards;

@@ -5,9 +5,9 @@ import './styles/project.css';
 import './styles/surprise.css';
 import './styles/terminal.css';
 
-import toDoScreenShot from './assets/projects/to-do-list-ss.png';
-import flaggedScreenShot from './assets/projects/flagged-ss.png';
-import weatherAppScreenShot from './assets/projects/weather-app-ss.png';
+import toDoScreenShot from './assets/projects/to-do-list-ss.webp';
+import flaggedScreenShot from './assets/projects/flagged-ss.webp';
+import weatherAppScreenShot from './assets/projects/weather-app-ss.webp';
 
 import { terminal } from './scripts/terminal';
 import { addProject } from './scripts/project';

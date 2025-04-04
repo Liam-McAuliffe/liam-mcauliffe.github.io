@@ -1,4 +1,4 @@
-import wooshUrl from '../assets/sounds/woosh.wav';
+import wooshUrl from '../assets/sounds/woosh.mp3';
 const woosh = new Audio(wooshUrl);
 woosh.volume = 0.1;
 
