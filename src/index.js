@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'https://cv-application-7jr.pages.dev/',
     controlCVScreenShot,
     ['React', 'CSS', 'JavaScript', 'Webpack'],
-    'Generate a CV/Resume in seconds!'
+    'Create a CV/Resume in seconds!'
   );
   addProject(
     'Weather App',
