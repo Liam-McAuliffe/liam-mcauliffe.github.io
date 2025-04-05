@@ -2,6 +2,7 @@ import html5Icon from '../assets/techstack/html5-icon.svg';
 import css3Icon from '../assets/techstack/css3-icon.svg';
 import javaScriptIcon from '../assets/techstack/javascript-icon.svg';
 import webpackIcon from '../assets/techstack/webpack-icon.svg';
+import reactIcon from '../assets/techstack/react-icon.svg';
 
 import gitHubIcon from '../assets/github-mark.png';
 import openIcon from '../assets/open.svg';
@@ -74,6 +75,7 @@ export const addProject = (
     css: css3Icon,
     javascript: javaScriptIcon,
     webpack: webpackIcon,
+    react: reactIcon,
   };
 
   techstack.forEach((tech) => {

@@ -8,6 +8,7 @@ import './styles/terminal.css';
 import toDoScreenShot from './assets/projects/to-do-list-ss.webp';
 import flaggedScreenShot from './assets/projects/flagged-ss.webp';
 import weatherAppScreenShot from './assets/projects/weather-app-ss.webp';
+import controlCVScreenShot from './assets/projects/control-cv-ss.webp';
 
 import { terminal } from './scripts/terminal';
 import { addProject } from './scripts/project';
@@ -33,6 +34,14 @@ document.addEventListener('DOMContentLoaded', () => {
     toDoScreenShot,
     ['HTML', 'CSS', 'JavaScript', 'Webpack'],
     'Add tasks and mark them off when done.'
+  );
+  addProject(
+    'Control CV',
+    'https://github.com/Liam-McAuliffe/control-cv',
+    'https://cv-application-7jr.pages.dev/',
+    controlCVScreenShot,
+    ['React', 'CSS', 'JavaScript', 'Webpack'],
+    'Generate a CV/Resume in seconds!'
   );
   addProject(
     'Weather App',
