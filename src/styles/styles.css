@@ -13,7 +13,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #1b263b;
+  background-color: #1a2639;
   color: #e0e1dd;
 }
 .cover-image-container {
@@ -45,11 +45,11 @@ body {
 }
 .about-container {
   background-color: #e0e1dd;
-  color: #0d1b2a;
+  color: #1a2639;
   padding: 0.6rem;
-  border: 2px solid #0d1b2a;
+  border: 2px solid #1a2639;
   border-radius: 1rem;
-  box-shadow: 4px 4px 0px #0d1b2a;
+  box-shadow: 4px 4px 0px #1a2639;
   display: flex;
   flex-direction: column;
   text-align: center;
