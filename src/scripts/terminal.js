@@ -18,6 +18,5 @@ greet();`;
     }
   }
 
-  console.log('Hello, world!');
   typeWriter();
 };
